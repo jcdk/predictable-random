@@ -8,7 +8,7 @@
  * @copyright Copyright (c) 2017 Tobias Toft
  */
 
-namespace haistudio\predictablerandom;
+namespace jcdk\predictablerandom;
 
 /**
  * @author    Tobias Toft
