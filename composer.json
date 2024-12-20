@@ -37,7 +37,7 @@
   },
   "extra": {
     "name": "Predictable Random",
-    "handle": "predictable-random-c5",
+    "handle": "predictable-random",
     "schemaVersion": "1.0.1",
     "hasCpSettings": false,
     "hasCpSection": false,

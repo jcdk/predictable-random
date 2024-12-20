@@ -13,7 +13,7 @@ namespace jcdk\predictablerandom;
 /**
  * @author    Tobias Toft
  * @package   PredictableRandom
- * @since     1.0.0
+ * @since     1.0.1
  */
 class TwigExtension extends \Twig_Extension
 {
