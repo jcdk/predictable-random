@@ -1,5 +1,5 @@
 {
-    "name": "haistudio/predictable-random",
+    "name": "jcdk/predictable-random",
     "description": "Generates a predictable random number based on a starting seed.",
     "type": "craft-plugin",
     "version": "1.0.8",
@@ -11,8 +11,8 @@
         "predictable-random"
     ],
     "support": {
-        "docs": "https://github.com/tobiastoft/predictable-random",
-        "issues": "https://github.com/tobiastoft/predictable-random/issues"
+        "docs": "https://github.com/jcdk/predictable-random",
+        "issues": "https://github.com/jcdk/predictable-random/issues"
     },
     "license": "MIT",
     "authors": [
@@ -37,7 +37,7 @@
     "extra": {
         "name": "Predictable Random",
         "handle": "predictable-random",
-        "schemaVersion": "1.0.0",
+        "schemaVersion": "1.0.1",
         "hasCpSettings": false,
         "hasCpSection": false,
         "changelogUrl": "https://www.hai-studio.com"
