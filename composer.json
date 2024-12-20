@@ -26,7 +26,8 @@
   },
   "repositories": [
     {
-      "packagist.org": false
+      "url": "https://github.com/jcdk/predictable-random.git",
+      "type": "git"
     }
   ],
   "autoload": {

@@ -1,6 +1,6 @@
 <?php
 /**
- * Predictable Random plugin for Craft CMS 3.x
+ * Predictable Random plugin for Craft CMS 5.x
  *
  * Generates a predictable random number based on a starting seed.
  *
@@ -17,7 +17,7 @@ use Craft;
 /**
  * @author    Tobias Toft
  * @package   PredictableRandom
- * @since     1.0.0
+ * @since     1.0.1
  */
 class Plugin extends \craft\base\Plugin
 {
