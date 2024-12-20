@@ -32,7 +32,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "jcdk\\predictablerandom\\": "vendor/jcdk/predictable-random/src/"
+      "jcdk\\predictablerandom\\": "src/"
     }
   },
   "extra": {
