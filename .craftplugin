@@ -3,7 +3,7 @@
   "pluginDescription": "Generates a predictable random number based on a starting seed.",
   "pluginVersion": "1.0.0",
   "pluginAuthorName": "Tobias Toft",
-  "pluginVendorName": "jcdk",
+  "pluginVendorName": "haistudio",
   "pluginAuthorUrl": "http://www.hai-studio.com",
   "pluginAuthorGithub": "",
   "codeComments": "yes",
