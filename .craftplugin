@@ -1,7 +1,7 @@
 {
   "pluginName": "Predictable Random",
   "pluginDescription": "Generates a predictable random number based on a starting seed.",
-  "pluginVersion": "1.0.1",
+  "pluginVersion": "1.0.0",
   "pluginAuthorName": "Tobias Toft",
   "pluginVendorName": "jcdk",
   "pluginAuthorUrl": "http://www.hai-studio.com",
