@@ -15,7 +15,11 @@ namespace jcdk\predictablerandom;
  * @package   PredictableRandom
  * @since     1.0.1
  */
-class TwigExtension extends \Twig_Extension
+
+ use Twig\Extension\AbstractExtension;
+use Twig\TwigFunction;
+
+class TwigExtension extends AbstractExtension
 {
 
     private $seed = 1;
@@ -44,8 +48,8 @@ class TwigExtension extends \Twig_Extension
     public function getFunctions()
     {
         return [
-            new \Twig_SimpleFunction('predictableRandom', [$this, 'generateNumber']),
-            new \Twig_SimpleFunction('setPredictableRandomSeed', [$this, 'setRandomSeed'])
+            new TwigFunction('predictableRandom', [$this, 'generateNumber']),
+            new TwigFunction('setPredictableRandomSeed', [$this, 'setRandomSeed'])
         ];
     }
 
