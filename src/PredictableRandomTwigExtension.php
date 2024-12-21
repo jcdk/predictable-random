@@ -16,10 +16,10 @@ namespace jcdk\predictablerandom;
  * @since     1.0.1
  */
 
- use Twig\Extension\AbstractExtension;
+//  use Twig\Extension\AbstractExtension;
 use Twig\TwigFunction;
 
-class TwigExtension extends AbstractExtension
+class PredictableRandomTwigExtension extends TwigExtension
 {
 
     private $seed = 1;
